@@ -1,1 +1,1 @@
-# DiaseasePrediction
+# DiseasePrediction
